@@ -81,3 +81,23 @@ Se realizaron diagramas tanto como para el edificio asi como para la sucursal lo
 
   ![Edificio - Piso 5](diagramas/edificio/piso5.png)
 </details>
+
+### Sucursal
+
+<details>
+  <summary>Click aqui para mostrar el diagrama de la planta baja</summary>
+
+  ![Sucursal - Planta Baja](diagramas/sucursal/plantaBaja.png)
+</details>
+
+<details>
+  <summary>Click aqui para mostrar el diagrama del piso 1</summary>
+
+  ![Sucursal - Piso 1](diagramas/sucursal/piso1.png)
+</details>
+
+<details>
+  <summary>Click aqui para mostrar el diagrama del piso 2</summary>
+
+  ![Sucursal - Piso 2](diagramas/sucursal/piso2.png)
+</details>
