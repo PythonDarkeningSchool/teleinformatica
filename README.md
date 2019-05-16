@@ -40,7 +40,7 @@ Esta cotizacion se divide en dos partes las cuales son:
 - Cotizacion del site en la sucursal
 - Cotizacion del equipo en la sucursal
 
-Dichas cotizaciones se pueden observar en el siguiente documento:
+Dichas cotizaciones se pueden observar en el siguiente documento: <br>
 :page_facing_up: [Documento de cotizacion de la sucursal](cotizaciones/sucursal/Resumen.pdf)
 
 Las especificaciones tecnicas se dividen en dos, las cuales son:
