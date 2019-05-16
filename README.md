@@ -134,5 +134,5 @@ Se realizaron diagramas tanto como para el edificio asi como para la sucursal lo
 
 - :bust_in_silhouette: Humberto Israel Perez Rodriguez
 - :bust_in_silhouette: Victor Hugo Robles Aguayo
-- :bust_in_silhouette: Daniel
+- :bust_in_silhouette: Guillermo Daniel Martínez Calleros
 - :bust_in_silhouette: Ramon Villa Espinoza
