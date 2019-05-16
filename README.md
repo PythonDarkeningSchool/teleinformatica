@@ -56,13 +56,13 @@ Para el edificio y la sucursal se realizaron documentos para describir las carac
 
 En el siguiente documento se aprecian las caracteristicas para construir el edificio:
 
-- [Caracteristicas del edificio](caracteristicas/edificio/caracteristicasEdificio.pdf)
+- :office: [Caracteristicas del edificio](caracteristicas/edificio/caracteristicasEdificio.pdf)
 
 ### Sucursal
 
 En el siguiente documento se aprecian las caracteristicas para construir la sucursal:
 
-- [Caracteristicas de la sucursal](caracteristicas/edificio/caracteristicasSucursal.pdf)
+- :office: [Caracteristicas de la sucursal](caracteristicas/edificio/caracteristicasSucursal.pdf)
 
 ## Diagramas
 
@@ -71,19 +71,19 @@ Se realizaron diagramas tanto como para el edificio asi como para la sucursal lo
 ### Edificio
 
 <details>
-  <summary>Click aqui para mostrar el diagrama de la planta baja</summary>
+  <summary>:point_right: Click aqui para mostrar el diagrama de la planta baja</summary>
 
   ![Edificio - Planta Baja](diagramas/edificio/plantaBaja.png)
 </details>
 
 <details>
-  <summary>Click aqui para mostrar el diagrama de los pisos 1, 2 & 4</summary>
+  <summary>:point_right: Click aqui para mostrar el diagrama de los pisos 1, 2 & 4</summary>
 
   ![Edificio - Pisos 1,2 & 4](diagramas/edificio/piso124.png)
 </details>
 
 <details>
-  <summary>Click aqui para mostrar el diagrama del piso 3</summary>
+  <summary>:point_right: Click aqui para mostrar el diagrama del piso 3</summary>
 
   ![Edificio - Piso 3](diagramas/edificio/piso3.png)
 </details>
