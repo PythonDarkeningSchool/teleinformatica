@@ -59,6 +59,11 @@ Se realizaron diagramas tanto como para el edificio asi como para la sucursal lo
 ### Edificio
 
 <details>
-	<summary>Click aqui para mostrar el diagrama de la planta baja</summary>
-	![Edificio - Planta Baja](diagramas/edificio/plantaBaja.png)
+  <summary>Summary</summary>
+
+  - 1
+  - 2 
+    ![Edificio - Planta Baja](diagramas/edificio/plantaBaja.png)
 </details>
+
+
