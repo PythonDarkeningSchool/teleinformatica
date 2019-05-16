@@ -1,5 +1,17 @@
 # Proyecto Cotización
 
+## Informacion del Proyecto
+
+- Nombre de la empresa: CiberSecurityMX
+- Descripcion de la empresa: Somos una empresa que se destaca por ofrecer soporte en el area de ciber seguridad en diferentes ambientes
+- Mision: Ayudar a los clientes para mantener un ambiente de software limpio de cualquier intrucion
+- Vision: Ser la empresa #1 en latinoamerica lider en el ramo
+- Clientes: Entre nuestros clientes distinguidos estan: Ran-Dos, Googler, Intelc, VPSCloud entre otros
+
+## Duracion del proyecto
+
+Este proyecto se prevee que dure un lapso entre 1 y 3 años, no mas, no menos
+
 ## Cotizaciones
 
 Se hicieron cotizaciones para una empresa de giro telefonica. las cuales constan de dos partes, las cuales son:
@@ -101,3 +113,10 @@ Se realizaron diagramas tanto como para el edificio asi como para la sucursal lo
 
   ![Sucursal - Piso 2](diagramas/sucursal/piso2.png)
 </details>
+
+## Integrantes del Equipo
+
+- Humberto Israel Perez Rodriguez
+- Victor Hugo Robles Aguayo
+- Daniel
+- Ramon Villa Espinoza
