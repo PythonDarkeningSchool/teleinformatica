@@ -2,15 +2,15 @@
 
 ## Informacion del Proyecto
 
-- Nombre de la empresa: CiberSecurityMX
-- Descripcion de la empresa: Somos una empresa que se destaca por ofrecer soporte en el area de ciber seguridad en diferentes ambientes
-- Mision: Ayudar a los clientes para mantener un ambiente de software limpio de cualquier intrucion
-- Vision: Ser la empresa #1 en latinoamerica lider en el ramo
-- Clientes: Entre nuestros clientes distinguidos estan: Ran-Dos, Googler, Intelc, VPSCloud entre otros
+- `Nombre de la empresa`: CiberSecurityMX
+- `Descripcion de la empresa`: Somos una empresa que se destaca por ofrecer soporte en el area de ciber seguridad en diferentes ambientes
+- `Mision`: Ayudar a los clientes para mantener un ambiente de software limpio de cualquier intrucion
+- `Vision`: Ser la empresa #1 en latinoamerica lider en el ramo
+- `Clientes`: Entre nuestros clientes distinguidos estan: Ran-Dos, Googler, Intelc, VPSCloud entre otros
 
 ## Duracion del proyecto
 
-Este proyecto se prevee que dure un lapso entre 1 y 3 años, no mas, no menos
+Este proyecto se prevee que dure un lapso entre 1 y 3 años
 
 ## Cotizaciones
 
@@ -23,14 +23,14 @@ Se hicieron cotizaciones para una empresa de giro telefonica. las cuales constan
 
 Esta cotizacion se divide en tres partes las cuales son:
 
-- Cotizacion del site (hardware)
-- Cotizacion del site (software)
-- Cotizacion del equipo general (hardware)
+- Cotizacion del site (`hardware`)
+- Cotizacion del site (`software`)
+- Cotizacion del equipo general (`hardware`)
 
-Dichas cotizaciones se pueden observar en el siguiente documento:
+Dichas cotizaciones se pueden observar en el siguiente documento: <br>
 [Documento de cotizacion del edificio](cotizaciones/edificio/Resumen.pdf)
 
-Las especificaciones tecnicas se pueden visualizar en el siguiente documento:
+Las especificaciones tecnicas se pueden visualizar en el siguiente documento: <br>
 [Especificaciones Tecnicas](cotizaciones/edificio/Especificaciones.pdf)
 
 ### Sucursal
