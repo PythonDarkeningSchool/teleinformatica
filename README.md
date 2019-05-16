@@ -35,3 +35,30 @@ Las especificaciones tecnicas se dividen en dos, las cuales son:
 
 - [Especificaciones tecnicas para el site](cotizaciones/sucursal/EspecificacionesHardware.pdf)
 - [Especificaciones tecnicas para el equipo en general](cotizaciones/sucursal/EspecificacionesEquipo.pdf)
+
+## Caracteristicas
+
+Para el edificio y la sucursal se realizaron documentos para describir las caracteristicas con las cuales se van a construir
+
+### Edificio
+
+En el siguiente documento se aprecian las caracteristicas para construir el edificio:
+
+- [Caracteristicas del edificio](caracteristicas/edificio/caracteristicasEdificio.pdf)
+
+### Sucursal
+
+En el siguiente documento se aprecian las caracteristicas para construir la sucursal:
+
+- [Caracteristicas de la sucursal](caracteristicas/edificio/caracteristicasSucursal.pdf)
+
+## Diagramas
+
+Se realizaron diagramas tanto como para el edificio asi como para la sucursal los cuales se detallan a continuacion
+
+### Edificio
+
+<details>
+	<summary>Click aqui para mostrar el diagrama de la planta baja</summary>
+	![Edificio - Planta Baja](plantaBaja.png)
+</details>
