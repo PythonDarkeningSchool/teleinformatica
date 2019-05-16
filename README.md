@@ -61,11 +61,11 @@ Se realizaron diagramas tanto como para el edificio asi como para la sucursal lo
 <details>
   <summary>Click aqui para mostrar el diagrama de la planta baja</summary>
 
-
   ![Edificio - Planta Baja](diagramas/edificio/plantaBaja.png)
 </details>
 
 <details>
   <summary>Click aqui para mostrar el diagrama de los pisos 1, 2 & 4</summary>
+
   ![Edificio - Pisos 1,2 & 4](diagramas/edificio/piso124.png)
 </details>
