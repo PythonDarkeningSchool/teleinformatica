@@ -16,7 +16,7 @@ Esta cotizacion se divide en tres partes las cuales son:
 - Cotizacion del equipo general (hardware)
 
 Dichas cotizaciones se pueden observar en el siguiente documento:
-[Documento de cotizacion del edificio](./cotizaciones/edificio/Resumen.pdf)
+[Documento de cotizacion del edificio](cotizaciones/edificio/Resumen.pdf)
 
 Las especificaciones tecnicas se pueden visualizar en el siguiente documento:
-[Especificaciones Tecnicas](./cotizaciones/edificio/Especificaciones.pdf))
+[Especificaciones Tecnicas](cotizaciones/edificio/Especificaciones.pdf)
