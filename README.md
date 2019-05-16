@@ -1,6 +1,6 @@
 # Tabla de Contenido
 
--- [Proyecto Cotización](#proyecto-cotizaci-n)
+- [Proyecto Cotización](#proyecto-cotizaci-n)
   * [Informacion del Proyecto](#informacion-del-proyecto)
   * [Duracion del proyecto](#duracion-del-proyecto)
   * [Cotizaciones](#cotizaciones)
