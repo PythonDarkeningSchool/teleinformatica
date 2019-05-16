@@ -78,7 +78,7 @@ En el siguiente documento se aprecian las caracteristicas para construir el edif
 
 En el siguiente documento se aprecian las caracteristicas para construir la sucursal:
 
-- :office: [Caracteristicas de la sucursal](caracteristicas/edificio/caracteristicasSucursal.pdf)
+- :office: [Caracteristicas de la sucursal](caracteristicas/sucursal/caracteristicasSucursal.pdf)
 
 ## Diagramas
 
