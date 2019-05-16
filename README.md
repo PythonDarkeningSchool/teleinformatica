@@ -69,3 +69,15 @@ Se realizaron diagramas tanto como para el edificio asi como para la sucursal lo
 
   ![Edificio - Pisos 1,2 & 4](diagramas/edificio/piso124.png)
 </details>
+
+<details>
+  <summary>Click aqui para mostrar el diagrama del piso 3</summary>
+
+  ![Edificio - Piso 3](diagramas/edificio/piso3.png)
+</details>
+
+<details>
+  <summary>Click aqui para mostrar el diagrama del piso 5</summary>
+
+  ![Edificio - Piso 5](diagramas/edificio/piso5.png)
+</details>
