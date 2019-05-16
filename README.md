@@ -23,15 +23,15 @@ Se hicieron cotizaciones para una empresa de giro telefonica. las cuales constan
 
 Esta cotizacion se divide en tres partes las cuales son:
 
-- Cotizacion del site (`hardware`)
-- Cotizacion del site (`software`)
-- Cotizacion del equipo general (`hardware`)
+- :ballot_box_with_check: Cotizacion del site (`hardware`)
+- :ballot_box_with_check: Cotizacion del site (`software`)
+- :ballot_box_with_check: Cotizacion del equipo general (`hardware`)
 
-Dichas cotizaciones se pueden observar en el siguiente documento: <br>
-[Documento de cotizacion del edificio](cotizaciones/edificio/Resumen.pdf)
+Dichas cotizaciones se pueden observar en el siguiente documento: <br> 
+:page_facing_up: [Documento de cotizacion del edificio](cotizaciones/edificio/Resumen.pdf)
 
 Las especificaciones tecnicas se pueden visualizar en el siguiente documento: <br>
-[Especificaciones Tecnicas](cotizaciones/edificio/Especificaciones.pdf)
+:page_facing_up: [Especificaciones Tecnicas](cotizaciones/edificio/Especificaciones.pdf)
 
 ### Sucursal
 
@@ -41,12 +41,12 @@ Esta cotizacion se divide en dos partes las cuales son:
 - Cotizacion del equipo en la sucursal
 
 Dichas cotizaciones se pueden observar en el siguiente documento:
-[Documento de cotizacion de la sucursal](cotizaciones/sucursal/Resumen.pdf)
+:page_facing_up: [Documento de cotizacion de la sucursal](cotizaciones/sucursal/Resumen.pdf)
 
 Las especificaciones tecnicas se dividen en dos, las cuales son:
 
-- [Especificaciones tecnicas para el site](cotizaciones/sucursal/EspecificacionesHardware.pdf)
-- [Especificaciones tecnicas para el equipo en general](cotizaciones/sucursal/EspecificacionesEquipo.pdf)
+- :page_facing_up: [Especificaciones tecnicas para el site](cotizaciones/sucursal/EspecificacionesHardware.pdf)
+- :page_facing_up: [Especificaciones tecnicas para el equipo en general](cotizaciones/sucursal/EspecificacionesEquipo.pdf)
 
 ## Caracteristicas
 
