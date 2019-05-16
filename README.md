@@ -116,7 +116,7 @@ Se realizaron diagramas tanto como para el edificio asi como para la sucursal lo
 
 ## Integrantes del Equipo
 
-- Humberto Israel Perez Rodriguez
-- Victor Hugo Robles Aguayo
-- Daniel
-- Ramon Villa Espinoza
+- :bust_in_silhouette: Humberto Israel Perez Rodriguez
+- :bust_in_silhouette: Victor Hugo Robles Aguayo
+- :bust_in_silhouette: Daniel
+- :bust_in_silhouette: Ramon Villa Espinoza
